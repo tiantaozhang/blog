@@ -1,0 +1,2067 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reflect"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"V",
+				"Value	struct ʈ"
+			],
+			[
+				"Ty",
+				"TypeOf	reflect.Type ƒ"
+			],
+			[
+				"P",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"In",
+				"Interface	i interface{} ƒ"
+			],
+			[
+				"runtime",
+				"runtime	 package ρ"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"s",
+				"Sum	[]byte ƒ"
+			],
+			[
+				"Writ",
+				"WriteString	n int, err error ƒ"
+			],
+			[
+				"I",
+				"Intn	int ƒ"
+			],
+			[
+				"M",
+				"MatchString	matched bool, err error ƒ"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"G",
+				"GetBetweenStr1	string ƒ"
+			],
+			[
+				"su",
+				"substr2"
+			],
+			[
+				"sub",
+				"substr1"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"con",
+				"continue	(regexp.go)"
+			],
+			[
+				"Mu",
+				"MustCompile	*regexp.Regexp ƒ"
+			],
+			[
+				"rege",
+				"regexp	 package ρ"
+			],
+			[
+				"Ap",
+				"AppendInt	[]byte ƒ"
+			],
+			[
+				"pa",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"strc",
+				"strconv	 package ρ"
+			],
+			[
+				"order",
+				"orderI"
+			],
+			[
+				"pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Ind",
+				"IndexItem"
+			],
+			[
+				"Hre",
+				"HRES_RETURN	 Ɩ"
+			],
+			[
+				"e",
+				"err"
+			],
+			[
+				"HR",
+				"HRES_RETURN	 Ɩ"
+			],
+			[
+				"HRES_",
+				"HRES_CONTINUE	 Ɩ"
+			],
+			[
+				"tim",
+				"timeoutNs"
+			],
+			[
+				"send",
+				"SendData	err error ƒ"
+			],
+			[
+				"chan",
+				"changeFlag"
+			],
+			[
+				"cha",
+				"changeFlag	(getAndSendData.go)"
+			],
+			[
+				"IN",
+				"INTERVAL_RE"
+			],
+			[
+				"INT",
+				"INTERVAL_R"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"getc",
+				"GetChan	chan []Data ƒ"
+			],
+			[
+				"S",
+				"strUid	string ν"
+			],
+			[
+				"timer",
+				"timerT"
+			],
+			[
+				"ch",
+				"chanData"
+			],
+			[
+				"map",
+				"mapData"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Get",
+				"GetChan	(getAndSendData.go)"
+			],
+			[
+				"tmpTi",
+				"tmpTid	(getAndSendData.go)"
+			],
+			[
+				"tmp",
+				"tmpUid	(getAndSendData.go)"
+			],
+			[
+				"inser",
+				"insertDb3"
+			],
+			[
+				"mapL",
+				"mapLastData	(getAndSendData.go)"
+			],
+			[
+				"inse",
+				"insertDb2"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"lo",
+				"lock"
+			],
+			[
+				"tm",
+				"tmpData"
+			],
+			[
+				"be",
+				"before	(time.go)"
+			],
+			[
+				"te",
+				"testing"
+			],
+			[
+				"imp",
+				"import	(main.go)"
+			],
+			[
+				"tes",
+				"testData"
+			],
+			[
+				"fo",
+				"format	(time.go)"
+			],
+			[
+				"Test",
+				"TestDbConn"
+			],
+			[
+				"D",
+				"DB	struct ʈ"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"Sess",
+				"Session	struct ʈ"
+			],
+			[
+				"Uda",
+				"UpdateList"
+			],
+			[
+				"E",
+				"Expires"
+			],
+			[
+				"def",
+				"defer"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"Pr",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"u",
+				"userlist"
+			],
+			[
+				"isDel",
+				"isDelUid"
+			],
+			[
+				"is",
+				"isDelSid"
+			],
+			[
+				"Fa",
+				"Fatal"
+			],
+			[
+				"f",
+				"f	[]UserList ν"
+			],
+			[
+				"si",
+				"signin"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"sid",
+				"sidStr"
+			],
+			[
+				"sig",
+				"signin"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"af",
+				"AfterVerifyCode	err error ƒ"
+			],
+			[
+				"Prin",
+				"Printf	 ƒ"
+			],
+			[
+				"For",
+				"FormValue	string ƒ"
+			],
+			[
+				"sess",
+				"sess"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"exit",
+				"exist	(reg_test.go)"
+			],
+			[
+				"l",
+				"Listen	 ƒ"
+			],
+			[
+				"error",
+				"error	(yan.go)"
+			],
+			[
+				"fail",
+				"failed	(yan.go)"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"exist",
+				"exists"
+			],
+			[
+				"conne",
+				"connect	(request.go)"
+			],
+			[
+				"Connec",
+				"ConnectDB"
+			],
+			[
+				"Con",
+				"Connection	(request.go)"
+			],
+			[
+				"New",
+				"New"
+			],
+			[
+				"suc",
+				"successful"
+			],
+			[
+				"De",
+				"Del	(mysession.go)"
+			],
+			[
+				"sm",
+				"sm	*SessionManager ν"
+			],
+			[
+				"coo",
+				"cookie"
+			],
+			[
+				"in",
+				"init"
+			],
+			[
+				"cookie",
+				"cookiename"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"c",
+				"cookiename"
+			],
+			[
+				"Sessio",
+				"SessionStore"
+			],
+			[
+				"ma",
+				"MapKeys	[]reflect.Value ƒ"
+			],
+			[
+				"va",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"sMap",
+				"sMapName"
+			],
+			[
+				"new",
+				"new	(yan.go)"
+			],
+			[
+				"ses",
+				"session	(yan.go)"
+			],
+			[
+				"me",
+				"memory	(yan.go)"
+			],
+			[
+				"print",
+				"Printf	 ƒ"
+			],
+			[
+				"db",
+				"db	*sql.DB ν"
+			],
+			[
+				"Err",
+				"Error"
+			],
+			[
+				"Fp",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"fp",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"pack",
+				"package manage	 ʂ"
+			],
+			[
+				"mydb",
+				"mydbname"
+			],
+			[
+				"dbnam",
+				"dbname	(utils_test.go)"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"prin",
+				"Println	 ƒ"
+			],
+			[
+				"statusf",
+				"StatusFound	 Ɩ"
+			],
+			[
+				"ha",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"htt",
+				"http"
+			],
+			[
+				"Dele",
+				"DeleteUser	(yan.go)"
+			],
+			[
+				"han",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"post",
+				"PostForm	resp *http.Response, err error ƒ"
+			],
+			[
+				"pos",
+				"PostForm	resp *http.Response, err error ƒ"
+			],
+			[
+				"Tesin",
+				"testing	 package ρ"
+			],
+			[
+				"fa",
+				"Fatal	 ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 104,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routers/router.go",
+			"settings":
+			{
+				"buffer_size": 146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/beego.go",
+			"settings":
+			{
+				"buffer_size": 9836,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/admin.go",
+			"settings":
+			{
+				"buffer_size": 13669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/template.go",
+			"settings":
+			{
+				"buffer_size": 6846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/go/src/html/template/template.go",
+			"settings":
+			{
+				"buffer_size": 12555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/mime.go",
+			"settings":
+			{
+				"buffer_size": 23063,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/config.go",
+			"settings":
+			{
+				"buffer_size": 13980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 27 files for \"Register\"\n\n/Users/xxx/code/go/src/Mybeego/Mybeego.sublime-workspace:\n  772  		\"/usr/local/go/src/net/url/url.go\",\n  773  		\"/usr/local/go/src/database/sql/sql.go\",\n  774: 		\"/Users/xxx/code/go/src/simpleWeb/src/register/register.go\",\n  775  		\"/usr/local/go/src/log/log.go\",\n  776  		\"/Users/xxx/code/go/src/rcpMaster/src/com.dy.rcp/srv/mux.go\",\n  777  		\"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/srv/mux.go\",\n  778: 		\"/Users/xxx/code/go/src/simpleWeb/src/register/reg_test.go\",\n  779  		\"/Users/xxx/code/go/golib/src/github.com/ljy2010a/go_alipay/alipay_kvpairs.go\",\n  780  		\"/usr/local/go/src/crypto/rsa/rsa.go\",\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/admin.go:\n   74  \n   75  // QpsIndex is the http.Handler for writing qbs statistics map result info in http.ResponseWriter.\n   76: // it's registered with url pattern \"/qbs\" in admin module.\n   77  func qpsIndex(rw http.ResponseWriter, r *http.Request) {\n   78  	tmpl := template.Must(template.New(\"dashboard\").Parse(dashboardTpl))\n   ..\n   87  \n   88  // ListConf is the http.Handler of displaying all beego configuration values as key/value pair.\n   89: // it's registered with url pattern \"/listconf\" in admin module.\n   90  func listConf(rw http.ResponseWriter, r *http.Request) {\n   91  	r.ParseForm()\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/app.go:\n   35  // NewApp returns a new beego application.\n   36  func NewApp() *App {\n   37: 	cr := NewControllerRegister()\n   38  	app := &App{Handlers: cr, Server: &http.Server{}}\n   39  	return app\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/beego.go:\n   71  // }\n   72  //\n   73: // register the function\n   74  // func (b *BankAccount)Mapping(){\n   75  //  b.Mapping(\"ShowAccount\" , b.ShowAccount)\n   ..\n  123  }\n  124  \n  125: // register router for Get method\n  126  // usage:\n  127  //    beego.Get(\"/\", func(ctx *context.Context){\n  ...\n  133  }\n  134  \n  135: // register router for Post method\n  136  // usage:\n  137  //    beego.Post(\"/api\", func(ctx *context.Context){\n  ...\n  143  }\n  144  \n  145: // register router for Delete method\n  146  // usage:\n  147  //    beego.Delete(\"/api\", func(ctx *context.Context){\n  ...\n  153  }\n  154  \n  155: // register router for Put method\n  156  // usage:\n  157  //    beego.Put(\"/api\", func(ctx *context.Context){\n  ...\n  163  }\n  164  \n  165: // register router for Head method\n  166  // usage:\n  167  //    beego.Head(\"/api\", func(ctx *context.Context){\n  ...\n  173  }\n  174  \n  175: // register router for Options method\n  176  // usage:\n  177  //    beego.Options(\"/api\", func(ctx *context.Context){\n  ...\n  183  }\n  184  \n  185: // register router for Patch method\n  186  // usage:\n  187  //    beego.Patch(\"/api\", func(ctx *context.Context){\n  ...\n  193  }\n  194  \n  195: // register router for all method\n  196  // usage:\n  197  //    beego.Any(\"/api\", func(ctx *context.Context){\n  ...\n  203  }\n  204  \n  205: // register router for own Handler\n  206  // usage:\n  207  //    beego.Handler(\"/api\", func(ctx *context.Context){\n  ...\n  326  	}\n  327  \n  328: 	registerDefaultErrorHandler()\n  329  \n  330  	if EnableDocs {\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/config/config.go:\n   74  var adapters = make(map[string]Config)\n   75  \n   76: // Register makes a config adapter available by the adapter name.\n   77: // If Register is called twice with the same name or if driver is nil,\n   78  // it panics.\n   79: func Register(name string, adapter Config) {\n   80  	if adapter == nil {\n   81: 		panic(\"config: Register adapter is nil\")\n   82  	}\n   83  	if _, ok := adapters[name]; ok {\n   84: 		panic(\"config: Register called twice for adapter \" + name)\n   85  	}\n   86  	adapters[name] = adapter\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/controller.go:\n  164  }\n  165  \n  166: // URLMapping register the internal Controller router.\n  167  func (c *Controller) URLMapping() {\n  168  }\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/logs/log.go:\n   73  var adapters = make(map[string]loggerType)\n   74  \n   75: // Register makes a log provide available by the provided name.\n   76: // If Register is called twice with the same name or if driver is nil,\n   77  // it panics.\n   78: func Register(name string, log loggerType) {\n   79  	if log == nil {\n   80: 		panic(\"logs: Register provide is nil\")\n   81  	}\n   82  	if _, dup := adapters[name]; dup {\n   83: 		panic(\"logs: Register called twice for provider \" + name)\n   84  	}\n   85  	adapters[name] = log\n   ..\n  135  		}\n  136  	} else {\n  137: 		return fmt.Errorf(\"logs: unknown adaptername %q (forgotten Register?)\", adaptername)\n  138  	}\n  139  	return nil\n  ...\n  149  		return nil\n  150  	} else {\n  151: 		return fmt.Errorf(\"logs: unknown adaptername %q (forgotten Register?)\", adaptername)\n  152  	}\n  153  }\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/router.go:\n  111  }\n  112  \n  113: // ControllerRegistor containers registered router rules, controller handlers and filters.\n  114  type ControllerRegistor struct {\n  115  	routers      map[string]*Tree\n  ...\n  118  }\n  119  \n  120: // NewControllerRegister returns a new ControllerRegistor.\n  121: func NewControllerRegister() *ControllerRegistor {\n  122  	return &ControllerRegistor{\n  123  		routers: make(map[string]*Tree),\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/session/session.go:\n   62  var provides = make(map[string]Provider)\n   63  \n   64: // Register makes a session provide available by the provided name.\n   65: // If Register is called twice with the same name or if driver is nil,\n   66  // it panics.\n   67: func Register(name string, provide Provider) {\n   68  	if provide == nil {\n   69: 		panic(\"session: Register provide is nil\")\n   70  	}\n   71  	if _, dup := provides[name]; dup {\n   72: 		panic(\"session: Register called twice for provider \" + name)\n   73  	}\n   74  	provides[name] = provide\n\n/Users/xxx/code/go/golib/src/github.com/astaxie/beego/template.go:\n   68  }\n   69  \n   70: // AddFuncMap let user to register a func in the template.\n   71  func AddFuncMap(key string, funname interface{}) error {\n   72  	beegoTplFuncMap[key] = funname\n\n/usr/local/go/src/net/http/server.go:\n   36  \n   37  // Objects implementing the Handler interface can be\n   38: // registered to serve a particular path or subtree\n   39  // in the HTTP server.\n   40  //\n   ..\n 1393  \n 1394  // ServeMux is an HTTP request multiplexer.\n 1395: // It matches the URL of each incoming request against a list of registered\n 1396  // patterns and calls the handler for the pattern that\n 1397  // most closely matches the URL.\n ....\n 1400  // or rooted subtrees, like \"/images/\" (note the trailing slash).\n 1401  // Longer patterns take precedence over shorter ones, so that\n 1402: // if there are handlers registered for both \"/images/\"\n 1403  // and \"/images/thumbnails/\", the latter handler will be\n 1404  // called for paths beginning \"/images/thumbnails/\" and the\n ....\n 1407  //\n 1408  // Note that since a pattern ending in a slash names a rooted subtree,\n 1409: // the pattern \"/\" matches all paths not matched by other registered\n 1410  // patterns, not just the URL with Path == \"/\".\n 1411  //\n 1412  // Patterns may optionally begin with a host name, restricting matches to\n 1413  // URLs on that host only.  Host-specific patterns take precedence over\n 1414: // general patterns, so that a handler might register for the two patterns\n 1415  // \"/codesearch\" and \"codesearch.google.com/\" without also taking over\n 1416  // requests for \"http://www.google.com/\".\n ....\n 1490  // to the canonical path.\n 1491  //\n 1492: // Handler also returns the registered pattern that matches the\n 1493  // request or, in the case of internally-generated redirects,\n 1494  // the pattern that will match after following the redirect.\n 1495  //\n 1496: // If there is no registered handler that applies to the request,\n 1497  // Handler returns a ``page not found'' handler and an empty pattern.\n 1498  func (mux *ServeMux) Handler(r *Request) (h Handler, pattern string) {\n ....\n 1542  }\n 1543  \n 1544: // Handle registers the handler for the given pattern.\n 1545  // If a handler already exists for pattern, Handle panics.\n 1546  func (mux *ServeMux) Handle(pattern string, handler Handler) {\n ....\n 1581  }\n 1582  \n 1583: // HandleFunc registers the handler function for the given pattern.\n 1584  func (mux *ServeMux) HandleFunc(pattern string, handler func(ResponseWriter, *Request)) {\n 1585  	mux.Handle(pattern, HandlerFunc(handler))\n 1586  }\n 1587  \n 1588: // Handle registers the handler for the given pattern\n 1589  // in the DefaultServeMux.\n 1590  // The documentation for ServeMux explains how patterns are matched.\n 1591  func Handle(pattern string, handler Handler) { DefaultServeMux.Handle(pattern, handler) }\n 1592  \n 1593: // HandleFunc registers the handler function for the given pattern\n 1594  // in the DefaultServeMux.\n 1595  // The documentation for ServeMux explains how patterns are matched.\n\n50 matches across 11 files\n",
+			"settings":
+			{
+				"buffer_size": 9045,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/config/config.go",
+			"settings":
+			{
+				"buffer_size": 4004,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/session/session.go",
+			"settings":
+			{
+				"buffer_size": 8641,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/logs/log.go",
+			"settings":
+			{
+				"buffer_size": 8355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/go/src/path/filepath/path.go",
+			"settings":
+			{
+				"buffer_size": 13203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/app.go",
+			"settings":
+			{
+				"buffer_size": 4570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/go/src/net/http/server.go",
+			"settings":
+			{
+				"buffer_size": 61559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/go/src/net/http/fcgi/child.go",
+			"settings":
+			{
+				"buffer_size": 7180,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/router.go",
+			"settings":
+			{
+				"buffer_size": 25264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/tree.go",
+			"settings":
+			{
+				"buffer_size": 13590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllers/default.go",
+			"settings":
+			{
+				"buffer_size": 243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/controller.go",
+			"settings":
+			{
+				"buffer_size": 18300,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/context/context.go",
+			"settings":
+			{
+				"buffer_size": 4280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/context/input.go",
+			"settings":
+			{
+				"buffer_size": 15921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/default_test.go",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conf/app.conf",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ar",
+				"Package Control: Add Repository"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Add Channel"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 267.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/filter.go",
+		"/usr/local/go/src/mime/type.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/admin.go",
+		"/usr/local/go/src/net/http/server.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/error.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/docs.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/log.go",
+		"/usr/local/go/src/path/filepath/path.go",
+		"/usr/local/go/src/path/filepath/path_windows.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/context/context.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/context/input.go",
+		"/usr/local/go/src/net/http/doc.go",
+		"/usr/local/go/src/reflect/type.go",
+		"/usr/local/go/src/reflect/value.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/beego.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/controller.go",
+		"/usr/local/go/src/reflect/makefunc.go",
+		"/usr/local/go/src/unsafe/unsafe.go",
+		"/usr/local/go/src/builtin/builtin.go",
+		"/usr/local/go/src/runtime/extern.go",
+		"/usr/local/go/src/runtime/symtab.go",
+		"/usr/local/go/src/crypto/md5/md5.go",
+		"/usr/local/go/src/math/rand/rand.go",
+		"/usr/local/go/src/net/url/url.go",
+		"/usr/local/go/src/database/sql/sql.go",
+		"/Users/xxx/code/go/src/simpleWeb/src/register/register.go",
+		"/usr/local/go/src/log/log.go",
+		"/Users/xxx/code/go/src/rcpMaster/src/com.dy.rcp/srv/mux.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/srv/mux.go",
+		"/Users/xxx/code/go/src/simpleWeb/src/register/reg_test.go",
+		"/Users/xxx/code/go/golib/src/github.com/ljy2010a/go_alipay/alipay_kvpairs.go",
+		"/usr/local/go/src/crypto/rsa/rsa.go",
+		"/usr/local/go/src/crypto/x509/x509.go",
+		"/Users/xxx/code/go/src/order/src/com.dy.order/main/main.go",
+		"/Users/xxx/code/go/src/diu/src/example/example.go",
+		"/Users/xxx/code/go/src/diu/src/main/rel.go",
+		"/Users/xxx/code/go/src/diu/tesh.sh",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/dbutil/dbutil.go",
+		"/Users/xxx/code/go/src/diu/src/example/www/www/index.html",
+		"/Users/xxx/code/go/src/diu/src/example/www/index.html",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/util/validattr.go",
+		"/usr/local/go/src/regexp/regexp.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/util/map2struct.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/routing/session.go",
+		"/usr/local/go/src/net/http/fs.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/routing/filter/nocache.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/routing/routing.go",
+		"/Users/xxx/code/go/src/goc2p/src/loadgen/test.sh",
+		"/usr/local/go/src/net/dial.go",
+		"/Users/xxx/code/go/src/goc2p/src/logging/log_manager.go",
+		"/Users/xxx/code/go/src/goc2p/src/logging/console_logger.go",
+		"/usr/local/go/src/bytes/buffer.go",
+		"/usr/local/go/src/encoding/json/encode.go",
+		"/usr/local/go/src/time/time.go",
+		"/Users/xxx/code/go/src/rcpbackup/src/com.dy.rcp/getAndSendData/getAndSendData.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSendData/coverage.html",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSendData/resultLog.txt",
+		"/Users/xxx/code/go/src/rcp/.gitignore",
+		"/Users/xxx/code/go/src/rcpbackup/conf/rcp.properties",
+		"/Users/xxx/code/go/src/rcpbackup/src/com.dy.rcp/srv/srv.go",
+		"/Users/xxx/code/go/src/rcpbackup/run.sh",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/mytest/get_test.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSendData/get_test.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSend/getAndSendData.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/course/initTest_test.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSend/get_test.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSend/c.out",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/getAndSend/test.sh",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/mytest/getAndSendData.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/mytest/resultLog.txt",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/mytest/test.sh",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.trak/main/mian.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/trace/trace.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/course/func_test.go",
+		"/Users/xxx/code/go/golib/src/github.com/smartystreets/goconvey/convey/convey.goconvey",
+		"/Users/xxx/code/go/golib/src/github.com/smartystreets/goconvey/convey/init.go",
+		"/Users/xxx/code/go/golib/src/github.com/smartystreets/goconvey/convey/gotest/utils.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/category/model.go",
+		"/usr/local/go/src/fmt/print.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/notify/notify.go",
+		"/usr/local/go/src/strings/strings.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/dbMgr/checkDb.go",
+		"/Users/xxx/code/go/golib/src/org.cny.uap/uap/uap.go",
+		"/Users/xxx/code/go/golib/src/org.cny.uas/common/common.go",
+		"/Users/xxx/code/go/golib/src/org.cny.uas/usr/sql.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/course/init.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/commonUtil/check.go",
+		"/Users/xxx/code/go/golib/src/org.cny.uap/uap/usql/sql.go",
+		"/Users/xxx/code/go/golib/src/com.rcp.orgMgr/conn/conn.go",
+		"/Users/xxx/code/go/golib/src/com.dy.tool/dbMgr/mConn.go",
+		"/Users/xxx/code/go/golib/src/com.dy.tool/dbMgr/conn.go",
+		"/usr/local/go/src/sync/waitgroup.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/course/func.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/conf/conf.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/util/Fcfg.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.trak/db.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/hooks/hooks.go",
+		"/usr/local/go/src/flag/flag.go",
+		"/Users/xxx/code/go/golib/src/org.cny.uap/conf/conf.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/client/client.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.alipay/alipayBase/alipay_core.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/trace/bslog/handle.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/trace/model_v2.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/dbMgr/db.go",
+		"/usr/local/go/src/time/tick.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/course/tag_api.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/course/tag_api_test.go",
+		"/usr/local/go/src/encoding/pem/pem.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.alipay/alipay/alipayWeb.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/srv/srv.go",
+		"/Users/xxx/code/go/golib/src/github.com/smartystreets/goconvey/convey/doc.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/trace/trace_v2.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/conf/jsConf.go",
+		"/Users/xxx/code/go/src/rcp/Makefile",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/log/log.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/client/ebsRemote.go",
+		"/Users/xxx/code/go/golib/src/github.com/Centny/gwf/util/util.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.trak/db_test.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.trak/analysis.go",
+		"/Users/xxx/code/go/src/rcp/src/com.dy.rcp/audit/model.go",
+		"/Users/xxx/code/go/src/simpleWeb/src/other/resultLog.txt",
+		"/Users/xxx/code/go/src/simpleWeb/src/session/session_test.go",
+		"/Users/xxx/code/go/src/simpleWeb/src/session/mysession.go",
+		"/Users/xxx/code/go/src/simpleWeb/src/other/test.sh",
+		"/Users/xxx/code/go/src/simpleWeb/src/other/session_test.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/session/sess_test.go",
+		"/Users/xxx/code/go/src/simpleWeb/src/main/yan.go",
+		"/Users/xxx/code/go/golib/src/github.com/astaxie/beego/session/sess_mem_test.go"
+	],
+	"find":
+	{
+		"height": 63.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Register",
+			"Parse(",
+			"Parse",
+			"AppConfigProvider",
+			"EnableAdmin",
+			"init(",
+			"Add",
+			"Get",
+			"ListenAndServe",
+			"Server",
+			"Graceful",
+			"AppPath",
+			"AddRouter(",
+			"AddRouter",
+			"MainController",
+			"Type()",
+			"align",
+			"kind()",
+			"kind",
+			"kind()",
+			"kind(){",
+			"kind()",
+			"dummy",
+			"StructField",
+			"Tag",
+			"Elem()",
+			"Field()",
+			"Type()",
+			"Elem()",
+			"Type()",
+			"Kind()",
+			"Kind",
+			"dummy",
+			"Elem()",
+			"Elem",
+			"String",
+			"args",
+			"parseOne",
+			"Parse",
+			"Seed",
+			"FindAllString",
+			"json.Mar",
+			"json.Un",
+			"json.Um",
+			"json.Marshal",
+			"Query",
+			"errors",
+			"\"20060102",
+			"\"20060102150405\"",
+			"(\"20060102150405\")",
+			"time.Now().Format(\"20060102150405\")",
+			"json.Ma",
+			"[]byte",
+			"IndexUserAgent",
+			"AlipayWebRequestForm",
+			"AlipayMobileRsaSign",
+			"VerifyMobileNotify",
+			"Init",
+			"GetRsaSign",
+			"InitWithReader2",
+			"InitWithFile",
+			"Path",
+			"Query",
+			"Parse",
+			"InitWithFilePath",
+			"InitWithReader2",
+			"InitWithFile",
+			"CheckDb",
+			"orderNew",
+			"FindAllStringSubmatch",
+			"allMatches",
+			"Handler",
+			"RVal",
+			"ValidRVal",
+			"MsgResE",
+			"JsonRes",
+			"JRes",
+			"info",
+			"Stopping load generator",
+			"timeoutNs",
+			"call",
+			"timeoutNs",
+			"endSign",
+			"lps",
+			"reflectValue",
+			"ma",
+			"comm",
+			"NewTcpComm",
+			"utid",
+			"RCP_ALL_CFG",
+			"chanData <-",
+			"mapLastData",
+			"mapLastBNData",
+			"mapData",
+			"mapBNData",
+			"mapChan",
+			"chanData",
+			"DbConn()",
+			"t_conn",
+			"dbMgr.DbConn()",
+			"SendNotify",
+			"NotifyTimer",
+			"begin",
+			"RunTx",
+			"BackgroundProcess",
+			"Convey",
+			"BoostrapBackgourJob",
+			"SendNotify",
+			"format",
+			"formate",
+			"add",
+			"RCP_DB_CONN",
+			"RcpDbConn",
+			"CheckDb",
+			"t_dbMgr",
+			"Query",
+			"NotifyTimer",
+			"DbConn(",
+			"DbConn()",
+			"TEST_DB_CONN",
+			"TRACE_DB_CONN",
+			"BoostrapBackgourJob",
+			"MigrateCourseTagField",
+			"BoostrapExtractLog",
+			"BoostrapBackgourJob",
+			"DbConn()",
+			"DbConn",
+			"InitCourseHook"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mapLastData",
+			"mapData"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.go",
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "routers/router.go",
+					"settings":
+					{
+						"buffer_size": 146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/beego.go",
+					"settings":
+					{
+						"buffer_size": 9836,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										1839,
+										1839
+									],
+									[
+										8041,
+										8041
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								9290,
+								9290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4653.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/admin.go",
+					"settings":
+					{
+						"buffer_size": 13669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12815,
+								12815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2312.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/template.go",
+					"settings":
+					{
+						"buffer_size": 6846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2859,
+								2859
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/usr/local/go/src/html/template/template.go",
+					"settings":
+					{
+						"buffer_size": 12555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1023,
+								1023
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/mime.go",
+					"settings":
+					{
+						"buffer_size": 23063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23032,
+								23032
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/config.go",
+					"settings":
+					{
+						"buffer_size": 13980,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										6848,
+										6848
+									],
+									[
+										8975,
+										8975
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								6848,
+								6848
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2984.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 9045,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										235,
+										243
+									],
+									[
+										244,
+										252
+									],
+									[
+										482,
+										490
+									],
+									[
+										836,
+										844
+									],
+									[
+										1161,
+										1169
+									],
+									[
+										1472,
+										1480
+									],
+									[
+										1657,
+										1665
+									],
+									[
+										1806,
+										1814
+									],
+									[
+										1943,
+										1951
+									],
+									[
+										2085,
+										2093
+									],
+									[
+										2231,
+										2239
+									],
+									[
+										2371,
+										2379
+									],
+									[
+										2513,
+										2521
+									],
+									[
+										2661,
+										2669
+									],
+									[
+										2805,
+										2813
+									],
+									[
+										2945,
+										2953
+									],
+									[
+										3089,
+										3097
+									],
+									[
+										3288,
+										3296
+									],
+									[
+										3364,
+										3372
+									],
+									[
+										3462,
+										3470
+									],
+									[
+										3554,
+										3562
+									],
+									[
+										3655,
+										3663
+									],
+									[
+										3850,
+										3858
+									],
+									[
+										4079,
+										4087
+									],
+									[
+										4153,
+										4161
+									],
+									[
+										4251,
+										4259
+									],
+									[
+										4337,
+										4345
+									],
+									[
+										4438,
+										4446
+									],
+									[
+										4624,
+										4632
+									],
+									[
+										4790,
+										4798
+									],
+									[
+										4958,
+										4966
+									],
+									[
+										5140,
+										5148
+									],
+									[
+										5208,
+										5216
+									],
+									[
+										5460,
+										5468
+									],
+									[
+										5538,
+										5546
+									],
+									[
+										5636,
+										5644
+									],
+									[
+										5731,
+										5739
+									],
+									[
+										5835,
+										5843
+									],
+									[
+										6041,
+										6049
+									],
+									[
+										6294,
+										6302
+									],
+									[
+										6520,
+										6528
+									],
+									[
+										6813,
+										6821
+									],
+									[
+										7134,
+										7142
+									],
+									[
+										7422,
+										7430
+									],
+									[
+										7663,
+										7671
+									],
+									[
+										7871,
+										7879
+									],
+									[
+										8114,
+										8122
+									],
+									[
+										8339,
+										8347
+									],
+									[
+										8574,
+										8582
+									],
+									[
+										8854,
+										8862
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/config/config.go",
+					"settings":
+					{
+						"buffer_size": 4004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3162,
+								3162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 894.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/session/session.go",
+					"settings":
+					{
+						"buffer_size": 8641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6646,
+								6649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/logs/log.go",
+					"settings":
+					{
+						"buffer_size": 8355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2678,
+								2678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/usr/local/go/src/path/filepath/path.go",
+					"settings":
+					{
+						"buffer_size": 13203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5503,
+								5503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/app.go",
+					"settings":
+					{
+						"buffer_size": 4570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								867,
+								867
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 279.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/usr/local/go/src/net/http/server.go",
+					"settings":
+					{
+						"buffer_size": 61559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51101,
+								51115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/usr/local/go/src/net/http/fcgi/child.go",
+					"settings":
+					{
+						"buffer_size": 7180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6895,
+								6895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/router.go",
+					"settings":
+					{
+						"buffer_size": 25264,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										3920,
+										3920
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								20635,
+								20635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/tree.go",
+					"settings":
+					{
+						"buffer_size": 13590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1390,
+								1390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 922.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "controllers/default.go",
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/controller.go",
+					"settings":
+					{
+						"buffer_size": 18300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2695,
+								2695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 245.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/context/context.go",
+					"settings":
+					{
+						"buffer_size": 4280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								945,
+								945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1686.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/Users/xxx/code/go/golib/src/github.com/astaxie/beego/context/input.go",
+					"settings":
+					{
+						"buffer_size": 15921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "tests/default_test.go",
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/GoSublime/syntax/GoSublime-Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "conf/app.conf",
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/xxx/code/go/src/GoTest":
+	{
+		"height": 201.0
+	},
+	"output.9o:///Users/xxx/code/go/src/GoTest/src/ttt":
+	{
+		"height": 197.0
+	},
+	"output.9o:///Users/xxx/code/go/src/GoTest/stack":
+	{
+		"height": 205.0
+	},
+	"output.9o:///Users/xxx/code/go/src/simpleWeb/src/main":
+	{
+		"height": 165.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 100.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true
+}

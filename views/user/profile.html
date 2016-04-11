@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>user profile</title>
+	<link rel="stylesheet" type="text/css" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
+</head>
+<body>
+
+	{{template "header.html"}}
+	
+<div>
+	<form>
+		<table>
+			<tr>
+				<td>UserId:</td>
+				<td>{{.userid}}</td>
+			</tr>
+			<tr>
+				<td>Tag:</td>
+				<td>
+					<input name="tag" value="to be a geek"></input>
+				</td>
+			</tr>
+			<tr>
+				<td>Email:</td>
+				<td>
+					<input name="email" value="cantact_me@qq.com"></input>
+				</td>
+			</tr>
+			<tr>
+				<td>Hobby:</td>
+				<td>
+					<input name="hobby" value="{{range $index,$elem := .hobby}}{{if $index}},{{end}}{{$elem}}{{end}}"></input>
+				</td>
+			</tr>
+		</table>
+	</form>
+
+
+</div>
+
+	{{template "footer.html"}}
+</body>
+</html>
